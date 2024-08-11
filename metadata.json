@@ -2,5 +2,18 @@
   "name": "Deyer",
   "symbol": "DE",
   "description": "Never be forgotten",
-  "image": "https://raw.githubusercontent.com/alanndockk3/deyer/main/logo.png"
+  "image": "https://raw.githubusercontent.com/alanndockk3/deyer/main/logo.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "SignatureToken"
+    }
+  ],
+  "signatures": [
+    {
+      "signer": "Alan Dockemeyer",
+      "signature": "SignatureGeneratedByAlan",
+      "timestamp": "2024-08-11T00:00:00Z"
+    }
+  ]
 }
