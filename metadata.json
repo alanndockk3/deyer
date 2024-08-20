@@ -9,10 +9,10 @@
       "value": "SignatureToken"
     }
   ],
-  "signatures": [
+  "creator": [
     {
-      "signer": "Alan Dockemeyer",
-      "signature": "SignatureGeneratedByAlan",
+      "owner": "Alan Dockemeyer",
+      "signature": "ALDO",
       "timestamp": "2024-08-11T00:00:00Z"
     }
   ]
