@@ -1,0 +1,19 @@
+{
+  "name": "Deyer",
+  "symbol": "DE",
+  "description": "Never be forgotten",
+  "image": "https://raw.githubusercontent.com/alanndockk3/deyer/main/logo.png",
+  "uri": "https://raw.githubusercontent.com/alanndockk3/deyer/main/C3Ywnjst4pgzjqQs1r8d4TUdjYz35XaZbJrJpmypzrrG.json",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "SignatureToken"
+    }
+  ],
+  "seller_fee_basis_points": 0,
+  "creators": [
+    {
+      "address": "2g3WtppchQQotDDuBGQJgzDK2CPSgEdovV82o59SmGf4",
+    }
+  ]
+}
