@@ -1,21 +1,14 @@
 {
-  "key": 4, 
-  "updateAuthority": "2g3WtppchQQotDDuBGQJgzDK2CPSgEdovV82o59SmGf4",
-  "mint": "C3Ywnjst4pgzjqQs1r8d4TUdjYz35XaZbJrJpmypzrrG",
-  "data": {
-    "name": "Deyer",
-    "symbol": "DE",
-    "uri": "https://raw.githubusercontent.com/alanndockk3/deyer/main/C3Ywnjst4pgzjqQs1r8d4TUdjYz35XaZbJrJpmypzrrG.json",
-    "sellerFeeBasisPoints": 0,
-    "creators": [
-      {
-        "address": "2g3WtppchQQotDDuBGQJgzDK2CPSgEdovV82o59SmGf4",
-        "share": 100
-      }
-    ]
-  },
-  "primarySaleHappened": 0, 
-  "isMutable": 1,
-  "editionNonce": 255, 
-  "tokenStandard": 1
+  "name": "Deyer",
+  "symbol": "DE",
+  "description": "Never be forgotten",
+  "image": "https://raw.githubusercontent.com/alanndockk3/deyer/main/logo.png",
+  "uri": "https://raw.githubusercontent.com/alanndockk3/deyer/main/C3Ywnjst4pgzjqQs1r8d4TUdjYz35XaZbJrJpmypzrrG.json",
+  "seller_fee_basis_points": 0,
+  "creators": [
+    {
+      "address": "2g3WtppchQQotDDuBGQJgzDK2CPSgEdovV82o59SmGf4",
+      "share": 100
+    }
+  ]
 }
