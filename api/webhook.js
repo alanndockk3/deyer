@@ -1,6 +1,7 @@
-require('dotenv').config();
+import dotenv from 'dotenv';
+import admin from 'firebase-admin';
 
-const admin = require('firebase-admin');
+dotenv.config();
 
 // Initialize Firebase Admin SDK using environment variables
 if (!admin.apps.length) {
@@ -12,6 +13,8 @@ if (!admin.apps.length) {
     }),
   });
 }
+
+console.log('FIREBASE_PRIVATE_KEY:', process.env.FIREBASE_PRIVATE_KEY); // Check if the private key is loaded
 
 const db = admin.firestore();
 
