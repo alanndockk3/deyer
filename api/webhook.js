@@ -1,3 +1,5 @@
+require('dotenv').config();
+
 const admin = require('firebase-admin');
 
 // Initialize Firebase Admin SDK using environment variables
